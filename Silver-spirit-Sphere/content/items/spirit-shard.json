@@ -1,0 +1,13 @@
+{
+    "name": "spirit shard",
+    "description": "A rare cystal shard that eminates energy.,
+    color: Color.",
+    "color": "420690",
+    "explosiveness": 1,
+    "flammability": 3,
+    "radioactivity": 1,
+    "hardness": 3,
+    "cost": 1,
+    "research": "spirit-sand",
+    "alwaysUnlocked": true,
+}

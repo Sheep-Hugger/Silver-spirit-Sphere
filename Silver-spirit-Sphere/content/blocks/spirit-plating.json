@@ -1,0 +1,7 @@
+{
+    "type": "Floor",
+    "name": "spirit plating",
+    "itemDrop": "spirit-shard",
+    "variants": 0,
+    "playerUnmineable": true,
+}

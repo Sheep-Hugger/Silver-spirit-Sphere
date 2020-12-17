@@ -1,0 +1,8 @@
+name: "silver-spirit-sphere"
+displayName: "Silver spirit Sphere"
+author: Sheep hugger
+description: "A Mod adding a very hard to mine resource"
+version: "0.1"
+minGameVersion: "120.2"
+dependencies: [ ]
+hidden: false

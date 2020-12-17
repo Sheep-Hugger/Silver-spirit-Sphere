@@ -1,0 +1,12 @@
+{
+    "name": "Spirit Sand",
+    "description": "light blue sand that glows with massive energy.",
+    "color": "420690",
+    "explosiveness": 0.5,
+    "flammability": 2,
+    "radioactivity": 0.5,
+    "hardness": 2,
+    "cost": 1,
+    "research": "sand",
+    "alwaysUnlocked": true,
+}

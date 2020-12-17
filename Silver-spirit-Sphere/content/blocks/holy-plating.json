@@ -1,0 +1,7 @@
+{
+    "type": "Floor",
+    "name": "holy-plating",
+    "itemDrop": "holy-crystal",
+    "variants": 0,
+    "playerUnmineable": true,
+}

@@ -1,0 +1,7 @@
+{
+    "type": "Floor",
+    "name": "spirit sand tile",
+    "itemDrop": "spirit-sand",
+    "variants": 3,
+    "playerUnmineable": false,
+}

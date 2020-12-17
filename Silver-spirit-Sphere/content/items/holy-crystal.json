@@ -1,0 +1,12 @@
+{
+    "name": "Holy cystal",
+    "description": "A Silver cystal that eminates bright white light.",
+    "color": "420690",
+    "explosiveness": 2,
+    "flammability": 7,
+    "radioactivity": 1.7,
+    "hardness": 4,
+    "cost": 1,
+    "research": "spirit-shard"
+    "alwaysUnlocked": true,
+}
