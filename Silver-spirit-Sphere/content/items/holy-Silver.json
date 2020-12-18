@@ -1,0 +1,12 @@
+{
+    "name": "Holy silver",
+    "description": "A glowing silver metal that eminates bright white light.",
+    "color": "420690",
+    "explosiveness": 1,
+    "flammability": 6,
+    "radioactivity": 3,
+    "hardness": 4,
+    "cost": 100,
+    "research": "holy-shard"
+    "alwaysUnlocked": true,
+}

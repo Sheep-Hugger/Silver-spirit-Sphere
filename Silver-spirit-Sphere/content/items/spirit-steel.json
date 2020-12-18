@@ -1,0 +1,13 @@
+{
+    "name": "Spirit steel",
+    "description": "A rare metal that eminates energy.,
+    color: Color.",
+    "color": "420690",
+    "explosiveness": 1,
+    "flammability": 1,
+    "radioactivity": 2,
+    "hardness": 3,
+    "cost": 10,
+    "research": "spirit-shard",
+    "alwaysUnlocked": true,
+}

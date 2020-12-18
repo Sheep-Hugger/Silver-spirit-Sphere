@@ -1,0 +1,12 @@
+{
+    "name": "Holy shard",
+    "description": "A Silver shard that eminates bright white light.",
+    "color": "420690",
+    "explosiveness": 2,
+    "flammability": 8,
+    "radioactivity": 1,
+    "hardness": 4,
+    "cost": 10,
+    "research": "holy-sand"
+    "alwaysUnlocked": true,
+}

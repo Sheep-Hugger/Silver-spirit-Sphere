@@ -1,0 +1,13 @@
+{
+    "name": "Spirit crystal",
+    "description": "A rare crystal that eminates energy.,
+    color: Color.",
+    "color": "420690",
+    "explosiveness": 1,
+    "flammability": 2,
+    "radioactivity": 2,
+    "hardness": 3,
+    "cost": 10,
+    "research": "spirit-shard",
+    "alwaysUnlocked": true,
+}

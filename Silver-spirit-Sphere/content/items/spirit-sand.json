@@ -6,7 +6,7 @@
     "flammability": 2,
     "radioactivity": 0.5,
     "hardness": 2,
-    "cost": 1,
+    "cost": 0.1,
     "research": "sand",
     "alwaysUnlocked": true,
 }

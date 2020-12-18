@@ -1,0 +1,16 @@
+{
+  "name": "Large unstable copper wall",
+  "description": "Very unstable prone to exsplode on destruction and shoot sparks when hit.",
+  "type": "Wall",
+  "health": 2560,
+  "size": 2,
+  "lightningChance": 1.0,
+  "lightningDamage": 2.0,
+  "lightningLength": 28,
+  "requirements": [
+      {"item": "spirit-sand", "amount": 2400},
+      {"item": "copper", "amount": 24}
+    ],
+  "category": "defense",
+  "research": "unstable-copper-wall",
+}
